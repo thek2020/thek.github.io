@@ -12,11 +12,11 @@
 <center>
 <h2>Link Generator</h2>
 
-<p>Please input a number between 1 and 3811:</p>
+<p>Bitte eine Nummer zwischen 1 and 3811 eingeben:</p>
 
 <input id="numb">
 
-<button style="color:Violet;" type="button" onclick="myFunction()">Submit</button>
+<button type="button" onclick="myFunction()">Submit</button>
 
 <p id="demo"></p>
 <br>
