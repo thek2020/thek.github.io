@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+}
+</head>
+</style>
 <body>
 <center>
 <h2>Link Generator</h2>
