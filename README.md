@@ -8,7 +8,7 @@
 
 <input id="numb">
 
-<button type="button" onclick="myFunction()">Submit</button>
+<button style="color:Violet;" type="button" onclick="myFunction()">Submit</button>
 
 <p id="demo"></p>
 <br>
