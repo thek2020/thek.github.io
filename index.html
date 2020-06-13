@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<center>
 <h2>Link Generator</h2>
 
 <p>Please input a number between 1 and 3811:</p>
@@ -13,7 +13,7 @@
 <p id="demo"></p>
 <br>
 <p id="demo2"></p>
-
+</center>
 <script>
 function myFunction() {
   var x, text, text2;
